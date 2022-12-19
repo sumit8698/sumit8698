@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Backend Solution.
 - 👀 I’m interested in distributed systems
 - 🤔 I’m looking for help with my profile.
-- 💬 Ask me about TensorFlow, Kera, Python
+- 💬 Ask me about TensorFlow, Kera, Python, Django REST framework
 - 📫 How to reach me: sragrawal@scu.edu | sumitagrawal354@gmail.com
 - 😄 Pronouns: He/Him
 
